@@ -14,6 +14,7 @@
 <img align="left" height="50px" width="50px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
 <img align="left" height="50px" width="50px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <br />
+<br />
 
 ## Idiomas
 - Português (língua materna)
