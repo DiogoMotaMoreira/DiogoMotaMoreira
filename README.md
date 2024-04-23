@@ -15,6 +15,7 @@
 <img align="left" height="50px" width="50px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <br />
 <br />
+![DiogoMotaMoreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoMotaMoreira&show_icons=true&theme=gruvbox)
 
 ## Idiomas
 - Português (língua materna)
