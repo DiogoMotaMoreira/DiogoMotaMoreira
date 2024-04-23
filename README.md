@@ -9,17 +9,15 @@
 - ...
 
 ### Coding Languages
-<div>
-    <img align="left" height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-    <img align="left" height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-    <img align="left" height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
-    <img align="left" height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-</div>
-<div>
-    ### Idiomas
-    - Português (língua materna)
-    - Inglês (B2.1/B2.2)
-</div>
+<img align="left" height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img align="left" height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img align="left" height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
+<img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+
+### Idiomas
+- Português (língua materna)
+- Inglês (B2.1/B2.2)
+
 ## Competências 
 - Programação
 - Resolução de conflitos
