@@ -1,16 +1,38 @@
-### Hi there 👋
+# Diogo Mota Moreira
 
-<!--
-**DiogoMotaMoreira/DiogoMotaMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*diogopmoreirap@gmail.com*
 
-Here are some ideas to get you started:
+### Formações
+#### Atual
+- Estudante de Engenharia Informática na UMinho.
+### Concluidas
+- ...
+  
+### Idiomas
+- Português (língua materna)
+- Inglês (B2.1/B2.2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Competências 
+- Programação
+- Resolução de conflitos
+- Trabalho em equipa
+- Liderança
+- Foco em resultados
+- Flexibilidade e adaptação a mudanças
+- Conhecimento técnico e aprendizado contínuo
+- Proatividade
+
+### Interesses
+- Programação
+- Informática
+- Robótica
+- Livros de Self-Development
+- Competições de Programação
+- Competições de Desporto
+- Desporto
+- Carros
+- Jogos de Tabuleiro
+- Video jogos
+- ...
+
+
