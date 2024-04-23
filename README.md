@@ -1,6 +1,6 @@
 # Diogo Mota Moreira
 
-*diogopmoreirap@gmail.com*
+**diogopmoreirap@gmail.com**
 
 ## Formações
 ### Atual
