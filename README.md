@@ -7,6 +7,9 @@
 - Estudante de Engenharia Informática na UMinho.
 ### Concluidas
 - ...
+
+### Coding Languages
+<img align="left" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   
 ### Idiomas
 - Português (língua materna)
