@@ -2,8 +2,8 @@
 
 *diogopmoreirap@gmail.com*
 
-### Formações
-#### Atual
+## Formações
+### Atual
 - Estudante de Engenharia Informática na UMinho.
 ### Concluidas
 - ...
@@ -12,7 +12,7 @@
 - Português (língua materna)
 - Inglês (B2.1/B2.2)
 
-### Competências 
+## Competências 
 - Programação
 - Resolução de conflitos
 - Trabalho em equipa
@@ -22,7 +22,7 @@
 - Conhecimento técnico e aprendizado contínuo
 - Proatividade
 
-### Interesses
+## Interesses
 - Programação
 - Informática
 - Robótica
