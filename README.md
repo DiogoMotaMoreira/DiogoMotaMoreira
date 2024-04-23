@@ -17,10 +17,11 @@
 </div>
 <br>
 
-### Idiomas
-- Português (língua materna)
-- Inglês (B2.1/B2.2)
-
+<div>
+    ### Idiomas
+    - Português (língua materna)
+    - Inglês (B2.1/B2.2)
+</div>
 ## Competências 
 - Programação
 - Resolução de conflitos
