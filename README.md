@@ -13,8 +13,8 @@
 <img align="left" height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 <img align="left" height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
 <img align="left" height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<br />
 
+<br />
 ### Idiomas
 - Português (língua materna)
 - Inglês (B2.1/B2.2)
