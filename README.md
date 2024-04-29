@@ -39,7 +39,6 @@
 - Robótica
 - Livros de Self-Development
 - Competições de Programação
-- Competições de Desporto
 - Desporto
 - Carros
 - Jogos de Tabuleiro
