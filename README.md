@@ -37,12 +37,9 @@
 - Programação
 - Informática
 - Robótica
-- Livros de Self-Development
+- Livros
 - Competições de Programação
 - Desporto
-- Carros
-- Jogos de Tabuleiro
-- Video jogos
 - ...
 
 
