@@ -9,7 +9,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Programador com experiência em **C** e **JAVA**
-- 🚀 Atualmente a estudar em **UNIVERSIDAD DO MINHO**
+- 🚀 Atualmente a estudar na **UNIVERSIDADE DO MINHO**
 - 🌱 A aprender mais sobre **PYTHON, ASTRO, JS**
 - 🧠 Gosto de criar mini apps, jogos e páginas web para descontrair
 
