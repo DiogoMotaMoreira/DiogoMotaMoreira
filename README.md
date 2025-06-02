@@ -1,3 +1,5 @@
+<div align="center" ><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hnNzRid3dndGt2N2JqYjI1ZjdkendjdXowczIxbzA3ZnJmNnVoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4w70V3qqkZn8A0OwX/giphy.gif"/> </div>
+
 <h1 align="center">Olá! 👋 Sou o Diogo Moreira</h1>
 
 <p align="center">
