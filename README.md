@@ -8,12 +8,6 @@
 
 --- 
 
-## 🚧 Em que estou a trabalhar
-
-- A iniciar aprendizagem em cibersegurança no Kali Linux
-
----
-
 ## 👨‍💻 Sobre mim
 
 - 🎓 Programador com experiência em **C** e **JAVA**
