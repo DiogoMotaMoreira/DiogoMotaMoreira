@@ -12,7 +12,7 @@
 
 - 🎓 Programador com experiência em **C** e **JAVA**
 - 🚀 Atualmente a estudar na **UNIVERSIDADE DO MINHO**
-- 🌱 A aprender mais sobre **PYTHON, ASTRO, JS**
+- 🌱 A aprender mais sobre **PYTHON, JS, Flutter**
 - 🧠 Gosto de criar mini apps, jogos e páginas web para descontrair
 
 ---
