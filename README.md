@@ -3,7 +3,7 @@
 <h1 align="center">Olá! 👋 Sou o Diogo Moreira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Estudante+universitário+de+Engenharia;Apaixonado+por+tecnologia+e+programação;;Sempre+em+busca+de+aprendizado!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Estudante+universitário+de+Engenharia;Apaixonado+por+tecnologia+e+programação;Sempre+em+busca+de+aprendizado!" alt="Typing SVG" />
 </p>
 
 --- 
