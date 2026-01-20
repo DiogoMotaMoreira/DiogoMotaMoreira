@@ -52,10 +52,6 @@ Instead of listing everything I've ever touched, here are the tools I use to bui
 
 ---
 
-## 📈 LeatCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/diogomotamoreira)
-
----
 
 ## 📫 Let's Connect
 
