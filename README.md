@@ -43,15 +43,9 @@ Instead of listing everything I've ever touched, here are the tools I use to bui
 
 ---
 
-## 📈 GitHub Stats
+## 📚 O que estou a estudar atualmente: System Design
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiogoMotaMoreira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoMotaMoreira&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
----
-
+![Progresso](https://img.shields.io/badge/Progresso_System_Design-1%25-blue?style=for-the-badge)
 
 ## 📫 Let's Connect
 
